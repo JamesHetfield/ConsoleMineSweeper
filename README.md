@@ -1,5 +1,5 @@
 #Console Mine Sweeper
-##(c) 2014 James Hetfield
+##Written by James Hetfield
 
 Try to find the mines without getting blown up!
 
